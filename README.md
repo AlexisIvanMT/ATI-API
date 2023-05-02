@@ -1,0 +1,1 @@
+This repository contains an API specifically designed for building a website for a veterinary clinic. The API provides functionalities related to appointment management, patient registration, information about services offered, and other relevant aspects for the operation

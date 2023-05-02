@@ -4,16 +4,28 @@
   "description": "A rest api for veterinary page",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisIvanMT/ATI-API.git"
   },
   "keywords": [
     "api",
     "rest",
-    "express"
+    "express",
+    "mysql",
+    "jwt"
   ],
   "author": "Alexis Morales",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisIvanMT/ATI-API.git/issues"
+  },
+  "homepage": "https://github.com/AlexisIvanMT/ATI-API.git#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
   }
 }
